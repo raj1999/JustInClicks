@@ -1,0 +1,82 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background: brown;
+}
+.navbar{
+    height: 60px;
+    background-color: #5c5cc6 !important;
+}
+.navbar-brand{
+margin-left: 45% ;
+font-size: 30px;
+}
+form{
+    background-color: #fff;
+    width: 500px;
+    height: 550px;
+    margin-top: 96px;
+    margin-left: 29vw;
+    border-radius: 0.5rem;
+
+}
+.button-div{
+    margin:0 ;
+    position : relative;
+    left: 37%;
+    top: 50px;
+
+}
+.form-group{
+    top: 30px;
+    display: flex;
+
+}
+.signup{
+    margin-top: 60px;
+    text-align: center;
+}
+
+label{
+    width: 50%;
+}
+input{
+    width: 75%;
+    }
+.plns{
+width: 35%;
+}  
+.btn{
+    margin-left: 43%;
+    top: 110px;
+    position: relative
+} 
+.already{
+    text-align: center;
+    top: 150px;
+    position: relative;
+}
+
+
+
+/* .gdCheck{
+    right: 45px;
+}
+.form-check{
+    margin-left: 40px;
+}
+.pro-cls{
+    margin-right: 20px;
+}
+.gdck{
+    margin-right: 48px;
+}
+.hdr{
+    margin-left: 13px;
+}
+.two-label{
+    width: 75px;
+} */
